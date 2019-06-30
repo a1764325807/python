@@ -1,4 +1,7 @@
-#!-*- coding=utf-8 -*-
+#! -*-coding:utf-8 -*-
+
+# 作者：泽同学
+# blog：www.orze.top
 from proxy.text import *
 import threading
 from crawler.crawler import *

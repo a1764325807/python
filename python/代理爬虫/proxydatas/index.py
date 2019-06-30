@@ -1,4 +1,7 @@
 #!-*- coding=utf-8 -*-
+
+# 作者：泽同学
+# blog：www.orze.top
 from db.dborder import *
 import db.dbconfig
 dbcon = mysqlconnect()
